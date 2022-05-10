@@ -1,3 +1,10 @@
+# Calculator
+Project created with the help of the course [Curso Web Moderno Completo com JavaScript 2022 + Projetos](https://www.udemy.com/course/curso-web/).
+
+![screencapture-calculatorreact96-netlify-app-2022-05-10-19_36_02](https://user-images.githubusercontent.com/64747697/167732882-4ee63679-ab14-4fd7-b0f7-0c3de9f33be0.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
